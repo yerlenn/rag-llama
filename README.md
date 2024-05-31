@@ -1,5 +1,5 @@
-#RAG application demo using open-source language model
-##Setup
+# RAG application demo using open-source language model
+## Setup
 
 0. Download Ollama and then llama model (or any other model, e.g. mistral)
 
